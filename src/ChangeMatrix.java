@@ -110,6 +110,10 @@ class ChangeMatrix{
 }
 
 /*
+Time Complexity: O(MxN)
+Auxiliary Space: O(1)
+Space Complexity: O(MxN)
+
    Test case 1:
                 rows = 3
                 columns = 3
